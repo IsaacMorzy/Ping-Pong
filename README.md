@@ -15,7 +15,7 @@ A web application that takes a number from a user and returns a range of numbers
 [PingPong](https://isaacmorzy.github.io/Ping-Pong/)
 
 ###author
-*IsaacMorzy*
+*IsaacMusyoka*
 
 ###License
 _MIT_
