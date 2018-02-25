@@ -1,0 +1,57 @@
+.jumbotron
+{
+    text-align: center;
+
+    color: #f00;
+    background-image: url('../images/pngpong.jpg');
+}
+.display4
+{
+    font-family: fantasy;
+    font-weight: bolder;
+
+    vertical-align: middle;
+}
+.lead
+{
+    font-style: italic;
+
+    vertical-align: bottom;
+}
+#inputno
+{
+    padding: inherit;
+
+    background-color: gray;
+}
+.governance
+{
+    font-weight: bold;
+}
+.about
+{
+    background-color: tomato;
+}
+#aside
+{
+    vertical-align: text-top;
+}
+.footer
+{
+    margin-top: inherit;
+
+    text-align: center;
+
+    color: black;
+}
+#composer
+{
+    font-family: cursive;
+}
+#author
+{
+    height: 100px;
+
+    color: black;
+    background-color: tomato;
+}
