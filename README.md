@@ -14,9 +14,9 @@ A web application that takes a number from a user and returns a range of numbers
 ## link to live site on gh-pages
 [PingPong](https://isaacmorzy.github.io/Ping-Pong/)
 
-###author
+### author
 *Isaac-Musyoka*
 
 
-###License
+### License
 _MIT_
